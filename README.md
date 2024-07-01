@@ -1,4 +1,4 @@
-Hospital Managment System Using JSP, Hibernate, JPA, SpringBoot(HMS)
+Hospital Managment System Using JSP, Hibernate, SpringBoot(HMS)
 
 ### Requirement
 For building and running the application you need:
