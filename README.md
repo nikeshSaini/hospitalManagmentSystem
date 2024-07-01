@@ -1,4 +1,4 @@
-Hospital Managment System Using JSP, Hibernate, SpringBoot(HMS)
+Hospital Managment System Using JSP,Thymeleaf, Hibernate, SpringBoot(HMS)
 
 ### Requirement
 For building and running the application you need:
